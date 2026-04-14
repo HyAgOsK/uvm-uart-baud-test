@@ -58,6 +58,9 @@ O quadro com paridade correta foi processado com sucesso. No entanto, no cenári
 ## Relatório de execução e Report Summary
 
 ### Execução do teste `uart_baud_rate_test`
+
+![Imagem do teste uart baud rate test](./images/BAUND_TESTING.png)
+
 Cenários executados:
 - 9600 bps: PASSED;
 - 57600 bps: PASSED;
@@ -73,6 +76,10 @@ Conclusão:
 O teste de baud rate foi aprovado com sucesso.
 
 ### Execução do teste `uart_parity_error_test`
+
+![Imagem do teste uart baud rate test](./images/PARITY_ERROR.png)
+
+
 Cenários executados:
 - quadro com paridade correta: PASSED;
 - quadro com erro de paridade injetado: falha esperada de observação, pois `rx_error` não foi acionado na leitura do status;
