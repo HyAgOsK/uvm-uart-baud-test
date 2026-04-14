@@ -1,7 +1,6 @@
 # SD242 – Atividade UVM UART
 
-> ALUNO: Hyago Vieira Lemes Barbosa Silva
-> email: hyago.silva@mtel.inatel.br | hyagobora@gmail.com
+> ALUNO: Hyago Vieira Lemes Barbosa Silva | email: hyago.silva@mtel.inatel.br | hyagobora@gmail.com
 
 ## Objetivo
 Foram desenvolvidos dois novos casos de teste independentes do teste original de comunicação, conforme solicitado na atividade. Os testes implementados avaliam elementos adicionais da UART, com foco em configuração e tratamento de erro.
