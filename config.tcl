@@ -21,8 +21,7 @@ set GUI_MODE        "no-gui"
 
 # UVM controls
 # set UVM_TEST        "uart_test"
-# set UVM_TEST        "uart_baud_rate_test"
-set UVM_TEST        "uart_parity_error_test"
+set UVM_TEST        "uart_baud_rate_test"
 
 set UVM_VERBOSITY   "UVM_MEDIUM"
 set UVM_ARGS        [list ]
