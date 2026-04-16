@@ -2,6 +2,10 @@
 
 > ALUNO: Hyago Vieira Lemes Barbosa Silva | email: hyago.silva@mtel.inatel.br | hyago.silva@mtel.inatel.br
 
+### Desenvolvimento
+- VSCode
+- Vivado TCL Shell
+
 ## Objetivo
 Foi desenvolvido um novo caso de teste independente do teste original de comunicação, conforme solicitado na atividade. O teste implementado avalia um elemento adicional da UART, com foco na configuração de baud rate.
 
